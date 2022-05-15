@@ -1,0 +1,10 @@
+﻿  A1002.cpp
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(11,15): warning C4477: “scanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 2 拥有了类型“int *”
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(16,15): warning C4477: “scanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 2 拥有了类型“int *”
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(34,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(34,12): message : 请考虑在格式字符串中使用“%zd”
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(9,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(11,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(14,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\ratRat\source\PAT\A1002\A1002\A1002.cpp(16,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  A1002.vcxproj -> D:\Users\ratRat\source\PAT\A1002\x64\Debug\A1002.exe
